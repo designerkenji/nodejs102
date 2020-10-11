@@ -13,4 +13,5 @@ npm install
 
  3. download [amcharts standalone JavaScript version](https://www.amcharts.com/download/)
  4. unzip and copy the amcharts4 folder to /public/lib/
- 
+ 5. copy [amchart column chart sample code](https://www.amcharts.com/demos/column-chart-with-axis-break/) into to /public/index.html 
+ 6. inside index.html, change amchats js path from cdn to /static/lib/amcharts4/ folder.
