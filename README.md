@@ -7,9 +7,11 @@ npm install
 ```
 
  
- ### nodejs101 we setup the web server using express package and create a public folder for all the static contents. 
+ ### nodejs101  
+ - we setup the web server using express package and create a public folder for all the static contents. 
 
- ### nodejs102 we will focus in the public folder to setup the client side with amcharts  
+ ### nodejs102  
+ - we will focus in the public folder to setup the client side with amcharts  
 
  3. download [amcharts standalone JavaScript version](https://www.amcharts.com/download/)
  4. unzip and copy the amcharts4 folder to /public/lib/
@@ -19,3 +21,8 @@ npm install
   
 
 ![alt text](ScreenShotAmchart.png)
+
+
+![alt text](ScreenShotFolder.png)
+
+
